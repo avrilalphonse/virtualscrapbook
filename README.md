@@ -1,6 +1,11 @@
-# Welcome to @evelyneatseverything!
+# Welcome to my Virtual Scrapbook!
 
-This is a demo website I created for the food vlogger @evelyneatseverthing
-<br /> All content used in this website is credited to her (Instagram posts, reviews, etc.)
+This is a website I created to showcase my experiences at the University of Waterloo!
+<br /> Mainly Using: React, Tailwind CSS and JavaScript XML
 
-<br /> *This was created by request from Evelyn Alphonse*
+<br /> This project was initialized using `create-react-app`, which provides the initial setup and configuration.
+
+<br /> *Disclaimer: All images used on this website are either created by the site owner or sourced from free-to-use image libraries. If you believe that any image violates copyright, please contact me, and I will promptly remove it.*
+
+<br /> *Made by Avril Alphonse*
+
