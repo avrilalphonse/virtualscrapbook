@@ -8,7 +8,7 @@ const Term3A = () => {
     const navigate = useNavigate();
 
     const handleClose = () => {
-        navigate('/'); 
+        navigate('/welcome'); 
     };
 
     return (

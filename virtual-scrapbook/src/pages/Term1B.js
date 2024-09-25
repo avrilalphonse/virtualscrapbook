@@ -8,7 +8,7 @@ const Term1B = () => {
     const navigate = useNavigate();
 
     const handleClose = () => {
-        navigate('/'); 
+        navigate('/welcome'); 
     };
 
     return (
